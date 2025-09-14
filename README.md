@@ -43,7 +43,7 @@ Download the [LEVIR-CD](https://justchenhao.github.io/LEVIR/) and [WHU-CD](http:
 Before training models, please enter the changedetection folder, which contains all the code for network definitions, training, and testing:
 
 ```bash
-cd <project_path>/MambaCD/changedetection
+cd <project_path>/SNV-GenCD/changedetection
 python script/train_MambaBCD.py
 ```
 
@@ -52,6 +52,6 @@ python script/train_MambaBCD.py
 Before inference, please enter into [changedetection] folder.
 
 ```bash
-cd <project_path>/MambaCD/changedetection
+cd <project_path>/SNV-GenCD/changedetection
 python script/infer_MambaBCD.py
 ```
