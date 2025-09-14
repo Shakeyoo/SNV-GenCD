@@ -14,8 +14,8 @@ conda env create -f environment.yaml
 conda activate snv-gencd
 ```
 💬 Data Preparation
-Download the LEVIR-CD and WHU-CD datasets.
-Please download them and organize them in the following folder/file structure:
+
+Download the LEVIR-CD and WHU-CD datasets.Please download them and organize them in the following folder/file structure:
 
 ```bash
 复制代码
@@ -40,6 +40,7 @@ Please download them and organize them in the following folder/file structure:
 └── test_list.txt
 ```
 💬 Model Training
+
 Before training models, please enter the changedetection folder, which contains all the code for network definitions, training, and testing:
 
 ```bash
