@@ -18,7 +18,6 @@ conda activate snv-gencd
 Download the [LEVIR-CD](https://justchenhao.github.io/LEVIR/) and [WHU-CD](http://gpcv.whu.edu.cn/data/building_dataset.html) datasets. Please download them and organize them in the following structure:
 
 ```bash
-复制代码
 ├── T1
 │   ├── 1.png
 │   ├── 2.png
