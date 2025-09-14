@@ -47,3 +47,12 @@ Before training models, please enter the changedetection folder, which contains 
 cd <project_path>/MambaCD/changedetection
 python script/train_MambaBCD.py
 ```
+
+💬 Inference
+
+Before inference, please enter into [changedetection] folder.
+
+```bash
+cd <project_path>/MambaCD/changedetection
+python script/infer_MambaBCD.py
+```
